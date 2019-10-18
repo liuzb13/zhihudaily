@@ -25,7 +25,8 @@
 ===
 
 由于知乎对api跨域请求进行了限制，所以需要对api的清楚进行处理。在跟目录下新建vue.config.js文件，由于vue-cli3隐藏了许多配置，因此这个配置文件需要使用者根据实际需要来建立，建立后，系统会自动把vue.config.js文件引入。配置如下：
-module.exports = {
+```
+module.exports = {
        outputDir: 'dist',   
         assetsDir: 'assets', 
        lintOnSave: false, 
@@ -46,6 +47,7 @@ module.exports = {
             },
        }
     }
+ ```
 
 图片防盗链
 ===
