@@ -6,6 +6,7 @@
 
 
 页面展示
+![image](https://github.com/liuzb13/zhihudaily/mainpage.png)
 
 
 
