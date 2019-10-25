@@ -1,4 +1,7 @@
-# zhihudaily
+# 知乎日报
+
+### 技术栈
+vue/vue-cli/axios/JavaScript
 
 项目说明
 ===
