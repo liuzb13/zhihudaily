@@ -8,8 +8,8 @@
 
 页面展示
 ===
-![image](https://github.com/liuzb13/zhihudaily/blob/master/mainpage.PNG)
-
+![image](https://github.com/liuzb13/zhihudaily/blob/master/lastednews.PNG)
+![image](https://github.com/liuzb13/zhihudaily/blob/master/totalitem.PNG)
 
 
 组件
