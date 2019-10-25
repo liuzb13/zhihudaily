@@ -9,10 +9,10 @@
 页面展示
 ===
 最新消息
-==
+=
 ![image](https://github.com/liuzb13/zhihudaily/blob/master/lastednews.PNG)
 项目总览
-==
+=
 ![image](https://github.com/liuzb13/zhihudaily/blob/master/totalitem.PNG)
 
 
