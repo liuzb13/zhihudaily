@@ -8,11 +8,11 @@
 
 页面展示
 ===
-最新消息
-====
+## 最新消息
+
 ![image](https://github.com/liuzb13/zhihudaily/blob/master/lastednews.PNG)
-项目总览
-====
+## 项目总览
+
 ![image](https://github.com/liuzb13/zhihudaily/blob/master/totalitem.PNG)
 
 
@@ -57,5 +57,5 @@ module.exports = {
 ===
 
 知乎对于图片也有一些相应的限制，有些图片能直接请求回来，但是也会有一些图片请求时会出现403（forbidden）的情况，因此需要在主文件首部增添以下代码：
-<meta name="referrer" content="no-referrer" />
+```<meta name="referrer" content="no-referrer"/>```
 
